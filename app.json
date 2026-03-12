@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "Controle Financeiro",
+    "slug": "controle-financeiro",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.jhonnyryver.appfinanceiro"
+    }
+  }
+}
